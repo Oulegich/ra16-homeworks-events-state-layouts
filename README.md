@@ -1,10 +1,9 @@
 Расположение товаров
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/nalj0avddgvn669o?svg=true)](https://ci.appveyor.com/project/Oulegich/ra16-homeworks-events-state-layouts)
 
-
-
-[Ссылка на Github Pages]()
+[Ссылка на Github Pages](https://oulegich.github.io/ra16-homeworks-events-state-layouts/)
 
 Вам необоходимо сделать приложение для отображения товаров в интернет-магазине. Заказчик хочет, чтобы пользователь мог увидеть товары в виде карточек или в виде списка, в зависимости от того, какое расположение он выберет.
 
